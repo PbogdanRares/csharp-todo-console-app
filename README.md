@@ -43,3 +43,15 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/PbogdanRares/csharp-todo-console-app.git
+
+Project Purpose
+
+This is a learning project rather than a production application.
+
+I built it to strengthen my C# fundamentals before moving deeper into ASP.NET Core and back-end development.
+
+Author
+
+Bogdan-Rares Paun
+
+Incoming Computer Engineering Student and aspiring software developer currently learning C# and .NET.
